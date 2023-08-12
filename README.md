@@ -8,7 +8,7 @@ I'm Yu An ~
 
 ### Tech Skills:
 
-**📝 Programming Languages:** TypeScript, JavaScript, Java, Python
+**📝 Programming Languages:** TypeScript, JavaScript, Java, Python, SQL
 
 **🖼️ Frameworks:** Angular, React, Vue, Spring, Pandas
 
