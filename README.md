@@ -1,10 +1,10 @@
 ## Hi there 👩🏻‍💻
 
-I'm Yu An ~ 
+**I'm Yu An** **~**
 
-📕 Currently a Software Engineering student at McGill University
+**📕** Currently a **Software Engineering** student at McGill University
 
-🌟 Likes full stack development & automation
+**🌟** Likes **full stack** development & **automation**
 
 ### Tech Skills:
 
