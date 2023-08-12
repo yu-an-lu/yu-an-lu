@@ -12,6 +12,15 @@
 
 **🖼️ Frameworks:** Angular, React, Vue, Spring, Pandas
 
+### Projects:
+
+<pre>
+ <code>
+   <span> SELECT * </span>
+   <span> FROM <a href="https://github.com/yu-an-lu/Portfolio">portfolio</a>; </span>
+ </code>
+</pre>
+
 ### Contact Me ~
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yu-an-lu)
