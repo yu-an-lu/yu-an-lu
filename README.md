@@ -8,7 +8,7 @@
 
 ### Tech Skills:
 
-**📝 Programming Languages:** TypeScript, JavaScript, Java, Python, SQL
+**📝 Programming Languages:** TypeScript, JavaScript, Java, Python, C, C++, SQL
 
 **🖼️ Frameworks:** Angular, React, Vue, Spring, Pandas
 
